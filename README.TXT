@@ -1,12 +1,5 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all they need to know. The comments should usually include at least:
-------------------------------------------------------------------------
+As part of my practical exploration in Java programming, I took the initiative to conceptualize and create a staff hire program using the BlueJ environment. This hands-on project allowed me to apply my coding skills in a real-world context, where I designed a program to streamline and optimize the staff recruitment process. By developing this program, I gained valuable experience in object-oriented programming, problem-solving, and software development. This project not only showcased my technical abilities but also highlighted my proactive approach to addressing practical challenges through innovative solutions.
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+
+
+

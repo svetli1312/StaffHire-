@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=FullTimeStaff
+comment0.text=\n\ FullTime\ staff\ is\ a\ sub\ class\ of\ StaffHire\n\n\ @\ Svetlozar\ Karpuski\ /\ London\ Metropolitan\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=pSalary\ pWorkingHours\ newVacancyNumber\ newDesignation\ newJobType\ newStaffName\ newJoinDate\ newQualification\ newAppointedBy\ newJoined
+comment1.target=FullTimeStaff(double,\ double,\ int,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ boolean)
+comment2.params=newSalary
+comment2.target=void\ setSalary(double)
+comment3.params=
+comment3.target=double\ getSalary()
+comment4.params=newHours
+comment4.target=void\ setwHours(double)
+comment5.params=
+comment5.target=double\ getHours()
+comment6.params=
+comment6.target=void\ display()
+numComments=7
